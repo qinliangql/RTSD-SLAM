@@ -1,5 +1,5 @@
 
-# TDM-SLAM: A Two-Stage Dynamic SLAM for Improved Motion Region Segmentation
+# TDM-SLAM: A Two-Stage Dynamic SLAM with Improved Motion Region Segmentation
 
 ## Video Demos
 
