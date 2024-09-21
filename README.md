@@ -1,5 +1,5 @@
 
-# TDM-SLAM: A Two-Stage Dynamic SLAM with Improved Motion Region Segmentation
+# RTSD-SLAM: A Robust Two-Stage Dynamic SLAM System
 
 ## Video Demos
 
