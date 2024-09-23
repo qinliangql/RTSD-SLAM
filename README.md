@@ -1,12 +1,12 @@
 
-# TDM-SLAM: A Robust Two-Stage Dynamic SLAM with Guided Motion Segmentation
+# TDGM-SLAM: A Robust Two-Stage Dynamic SLAM with Guided Motion Segmentation
 
 ## Video Demos
 
-https://github.com/qinliangql/TDM-SLAM/assets/94153596/b6418d82-481b-4d51-b2df-b2bd8194d253
+https://github.com/user-attachments/assets/8059c9eb-dde0-4a50-9709-0c01377156c8
 
 
-https://github.com/qinliangql/TDM-SLAM/assets/94153596/7d66c29a-9d1e-4c15-8a76-cd7b46684d1d
+https://github.com/user-attachments/assets/982eca29-ac20-4153-8190-9a82030b242c
 
 ## Overview
 
